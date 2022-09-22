@@ -16,13 +16,11 @@ function Button(props: ButtonProps){
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text >
-        Hello React Native!
-        </Text>
-<Button title="Send 1"/>
-<Button title="Send 2"/>
-<Button title="Send 3"/>
-<Button title="Hello Word"/>
+    
+<Button title="Sabia"/>
+<Button title="Que eu Te amo"/>
+<Button title="Muito"/>
+<Button title="Vou fazer a janta"/>
 
       <StatusBar style="auto" />
     </View>
